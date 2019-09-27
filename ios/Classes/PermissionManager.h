@@ -9,7 +9,6 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
-#import "EventPermissionStrategy.h"
 #import "LocationPermissionStrategy.h"
 #import "MediaLibraryPermissionStrategy.h"
 #import "PermissionStrategy.h"
